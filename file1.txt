@@ -1,4 +1,0 @@
-This is our first file to practice devops
-
-this is the first line
-this is the second line
